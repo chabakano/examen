@@ -1,0 +1,49 @@
+body{
+    background-color: salmon;
+}
+header.he{
+    text-decoration: underline;
+    color: blue;
+    text-align: center;
+}
+div.bit{
+    text-align: right;
+}
+div.bit img{
+    margin: auto;
+    display: inline;
+    height: 150px;
+    width: 150px;
+    position: relative;
+}
+div.ete{
+   text-align: center;
+    border: aqua 4px solid;
+    background-color: beige;
+}
+div.ete img{
+    margin: auto;
+    display: inline;
+    height: 150px;
+    width: 150px;
+    position: relative;
+}
+div.lit{
+    text-align: left;
+}
+div.lit img{
+    margin: auto;
+    display: inline;
+    height: 150px;
+    width: 150px;
+    position: relative;
+}
+
+footer.f{
+    border: black 3px solid;
+    background-color: yellow;
+    text-align: center;
+}
+span.sp{
+    color: red;
+}
